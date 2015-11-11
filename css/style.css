@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    font-family: 'Lobster', cursive;
+    font-family: "Lobster", cursive;
     font-size: 3em;
 }
 
@@ -61,6 +61,7 @@ p {
 .menu-item {
     color: #3fa9fa !important;
     border-radius: 5px !important;
+    background-image: -webkit-linear-gradient(top, #dbdbdb 0%, #e2e2e2 100%) !important;
     background-image: linear-gradient(to bottom, #dbdbdb 0%, #e2e2e2 100%) !important;
     box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.075);
 }
